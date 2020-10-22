@@ -1,0 +1,9 @@
+.user {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.user h1{
+    margin-left: 20px;
+}
